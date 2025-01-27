@@ -1,0 +1,9 @@
+{
+  "Name": "Hover to pressure",
+  "Owner": "nahkd123",
+  "Description": "Convert hover distance to pressure",
+  "PluginVersion": "0.0.1",
+  "SupportedDriverVersion": "0.6.5.0",
+  "RepositoryUrl": "https://github.com/nahkd123/hover-to-pressure.git",
+  "LicenseIdentifier": "MIT"
+}
