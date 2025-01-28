@@ -5,7 +5,10 @@ This plugin only works for tablets that reports hover distance, and it seems lik
 
 ## Usage
 ### Installing the plugin
-TODO
+1. Open Releases page (or [click here](https://github.com/nahkd123/hover-to-pressure/releases) to open).
+1. Download nahkd123.HoverToDistance.zip.
+1. Drag that zip file to Plugin Manager to install (Plugins > Open Plugin Manager...).
+1. You can now enable this plugin in Filters tab.
 
 ### Configuring the plugin
 - Minimum/Maximum hover distance: The hover distance range that will be mapped to pen pressure. Check hover distance in Tablet Debugger window.
